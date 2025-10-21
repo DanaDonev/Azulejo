@@ -7,7 +7,7 @@
 <img width="120" height="120" alt="tile (4)" src="https://github.com/user-attachments/assets/061bbb2e-39ea-4560-acdc-9b7adf53f13b" />
 <img width="120" height="120" alt="tile (6)" src="https://github.com/user-attachments/assets/ded521c3-af63-4ba1-839b-0ee749837461" />
 
-A simple web app that generates azulejo-style tile designs based on user preferences. Built with only JavaScript and CSS.
+A simple web app that generates azulejo-style tile designs based on user preferences. Built with only JavaScript, HTML and CSS.
 
 ## 👉 Features
 
