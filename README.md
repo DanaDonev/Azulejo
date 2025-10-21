@@ -19,6 +19,7 @@ New generations adapt to your selections
 
 Export a single tile or a full wall design
 
-## 👉 Demo Video
+<!--## 👉 Demo Video
 
 Check out the demo here:
+-->
